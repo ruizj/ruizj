@@ -6,7 +6,7 @@
    <br>
 <span>
 <b>De reparador a desarrollador:</b> Mi viaje en el mundo tecnológico comenzó con el simple acto de reparar computadoras. Pronto, la fascinación por el funcionamiento interno de estos dispositivos me llevó a explorar el apasionante mundo del desarrollo web.
-
+<br>
 <b>Full Stack con entusiasmo:</b> Me convertí en un desarrollador Full Stack, dominando tanto el front-end como el back-end. Disfruto creando soluciones web innovadoras y eficientes que combinan una interfaz atractiva con una arquitectura robusta.
 
 <b>Aprendizaje constante:</b> Mi sed de conocimiento me impulsa a seguir aprendiendo y explorando nuevas tecnologías. Me entusiasma asumir nuevos desafíos y mantenerme actualizado con las últimas tendencias del desarrollo web.
