@@ -5,10 +5,10 @@
    <h1>Hi 👋🏻, Soy Javier</h1>
    <br>
 <span>
-<b>De reparador a desarrollador:</b> Mi viaje en el mundo tecnológico comenzó con el simple acto de reparar computadoras. Pronto, la fascinación por el funcionamiento interno de estos dispositivos me llevó a explorar el apasionante mundo del desarrollo web.   
-<b>Full Stack con entusiasmo:</b> Me convertí en un desarrollador Full Stack, dominando tanto el front-end como el back-end. Disfruto creando soluciones web innovadoras y eficientes que combinan una interfaz atractiva con una arquitectura robusta.
-<b>Aprendizaje constante:</b> Mi sed de conocimiento me impulsa a seguir aprendiendo y explorando nuevas tecnologías. Me entusiasma asumir nuevos desafíos y mantenerme actualizado con las últimas tendencias del desarrollo web.
-<b>Impacto positivo:</b> Mi objetivo es utilizar mis habilidades y conocimientos para generar un impacto positivo en la industria. Aspiro a contribuir a proyectos significativos que brinden valor a los usuarios y hagan del mundo un lugar mejor.
+<b>De reparador a desarrollador:</b> Mi viaje en el mundo tecnológico comenzó con el simple acto de reparar computadoras. Pronto, la fascinación por el funcionamiento interno de estos dispositivos me llevó a explorar el apasionante mundo del desarrollo web. <br>  
+<b>Full Stack con entusiasmo:</b> Me convertí en un desarrollador Full Stack, dominando tanto el front-end como el back-end. Disfruto creando soluciones web innovadoras y eficientes que combinan una interfaz atractiva con una arquitectura robusta.<br>
+<b>Aprendizaje constante:</b> Mi sed de conocimiento me impulsa a seguir aprendiendo y explorando nuevas tecnologías. Me entusiasma asumir nuevos desafíos y mantenerme actualizado con las últimas tendencias del desarrollo web.<br>
+<b>Impacto positivo:</b> Mi objetivo es utilizar mis habilidades y conocimientos para generar un impacto positivo en la industria. Aspiro a contribuir a proyectos significativos que brinden valor a los usuarios y hagan del mundo un lugar mejor.<br>
 </span>
 
 <span> </span>
